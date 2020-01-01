@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c20234-3ee4-4ff5-afd9-4490ae1d44cb" name="Default Changelist" comment="" />
+    <list default="true" id="32c20234-3ee4-4ff5-afd9-4490ae1d44cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nordic/server/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/db.changelog-master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nordic/server/ServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +122,10 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2936" y="221" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1577909458407" />
+    <state x="2099" y="227" width="826" height="727" key="DiffContextDialog" timestamp="1577910051554">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2099" y="227" width="826" height="727" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1577910051554" />
     <state x="3091" y="368" key="FileChooserDialogImpl" timestamp="1577909094767">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
@@ -124,5 +142,9 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="1996" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1577909670236" />
+    <state x="2743" y="316" width="826" height="727" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577912017714">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2743" y="316" width="826" height="727" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1577912017714" />
   </component>
 </project>
